@@ -5,7 +5,7 @@
 > Official documentation repository for **YUKI LAB CAR AUDIO v1.0.2**.  
 > This public repository contains documentation only. The commercial resource itself is distributed through Tebex / Cfx.re.
 
-[**🛒 YUKI LAB Tebex Store**](https://yuki-lab.tebex.store/) · [**🎬 5-minute Product Demo**](https://www.youtube.com/watch?v=F4-W9wXxPPQ) · [**🎬 80-second Gameplay Demo**](https://www.youtube.com/watch?v=RYH9IoM9eTo)
+[**🛒 YUKI LAB Tebex Store**](https://yuki-lab.tebex.store/) · [**🎬 5-minute Product Demo**](https://www.youtube.com/watch?v=F4-W9wXxPPQ) · [**🎬 80-second Gameplay Demo**](https://www.youtube.com/watch?v=RYH9loM9eTo)
 
 ---
 
